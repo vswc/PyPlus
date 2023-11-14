@@ -1,4 +1,4 @@
-# <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" height="10px" width="10px"/> &nbsp; PyPlus
+# <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" height="15px" width="15px"/> &nbsp; PyPlus
 
 ## Intermediate and Advanced Python Concepts
 
